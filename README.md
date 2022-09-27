@@ -6,7 +6,7 @@ Então dispostos em cada pasta os arquivos em Power BI e demais tecnologias que 
 Tecnologias e ferramentas utilizadas no curso:
 - Power BI
 - Excel
-- Python 
+- Python (Jupyter Notebook)
   - pandas
   - matplotlib
   - seaborn
