@@ -1,0 +1,8 @@
+Para criar um gráfico vc precisa se preocupar com:
+
+- Tipo de gráfico
+- Formatação do gráfico
+- Precisão do gráfico
+- Se está realizando o trabalho daquele framework (mapeando os dados para os elementos visuais corretamente - Data Visualization Framework)
+- Dados numéricos ou não numéricos
+
