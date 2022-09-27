@@ -10,7 +10,8 @@ Tecnologias e ferramentas utilizadas no curso:
   - pandas
   - matplotlib
   - seaborn
-- R 
-  - R Studio
-- SQL 
-  - PostgreSQL
+- R (R Studio)
+  - ggplot2
+  - plotrix
+  - treemap
+- SQL (PostgreSQL) 
